@@ -1,0 +1,13 @@
+#play-button {
+  width: 5rem;
+  background-color: blanchedalmond;
+}
+
+#play-button:hover {
+  background-color: aquamarine;
+  width: 20rem;
+}
+
+#play-button:active {
+  cursor: help;
+}
